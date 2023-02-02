@@ -16,9 +16,5 @@ If constraints are not satisfied then the transaction fails.
 In either case, user will be directed to 2.php .
 If the transaction is successful then all the corresponding details are successfully updated in 2.php .
 
-Any suggestions will be happily welcomed.
-
-CONTACT:
-dollytalreja45@gmail.com
 
 
